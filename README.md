@@ -8,5 +8,5 @@
  </p>
  
  <p align="left">
-    https://ruuan.github.io/google-clone/
+    https://dioogoabreu.github.io/google-clone/
   </p>
